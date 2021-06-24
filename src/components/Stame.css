@@ -1,0 +1,46 @@
+.stamebg {
+    background: #0053D1;
+    width: 100%;
+}
+
+.h2stame{
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 43px;
+    text-align: center;
+}
+
+.h5stame{
+    color: #fff;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.8px;
+}
+
+.pstame{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+}
+
+.stamebtn {
+    border-radius: 29px;
+    color: #0053D1;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+}

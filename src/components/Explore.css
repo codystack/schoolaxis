@@ -1,0 +1,15 @@
+h2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 43px;
+    text-align: center;
+    padding-top: 51px;
+    padding-bottom: 44px;
+    color: #1D4881;
+
+}
+
+.cardlocation.card {
+    border: 0;
+}

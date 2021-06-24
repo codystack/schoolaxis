@@ -1,0 +1,76 @@
+.recentlistbg {
+    background: #F8FAFB;
+    width: 100%;
+}
+
+.h2recent {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 43px;
+    text-align: center;
+    color: #030047;
+}
+
+.recentbtn {
+    border-radius: 29px;
+    background-color: #0053D1;;
+    color: #fff;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+.slideinfo {
+    display: flex;
+}
+
+.h5slide {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #030047;
+}
+
+.slideprice {
+    display: flex;
+    background: #CCF5E1;
+    border-radius: 5px;
+    color: #1D4881;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    outline: none;
+}
+
+button.slideprice.btn.btn-primary:hover {
+    display: flex;
+    background: #CCF5E1;
+    border-radius: 5px;
+    color: #1D4881;
+    border: none;
+    outline: none;
+}
+
+button.slideprice.btn.btn-primary:focus {
+    display: flex;
+    background: #CCF5E1;
+    border-radius: 5px;
+    color: #1D4881;
+    border: none;
+    outline: none;
+}
+
+.slideinfo1 > img {
+    width: 15px;
+}
+
+.slideinfo1 > p {
+    display: inline-flex;
+}

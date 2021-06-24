@@ -1,0 +1,20 @@
+.howitworksbg {
+    background: #FFF;
+    width: 100%;
+}
+
+.h2hiw {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 43px;
+    text-align: center;
+    color: #0D2344;
+}
+
+.hitimgbg > img {
+    border-radius: 15px;
+    height: 490px;
+    width: 425px;
+
+}
