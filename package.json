@@ -2,6 +2,7 @@
   "name": "schoolaxis",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT license",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@testing-library/jest-dom": "^5.14.1",
@@ -15,7 +16,6 @@
     "react-router-bootstrap": "^0.25.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3",
-    "react-simple-star-rating": "^1.0.6",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
