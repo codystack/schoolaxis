@@ -1,11 +1,7 @@
 import React from 'react'
 import './Howitworks.css'
-import { Container } from 'react-bootstrap'
-import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
+import { Container, Row, Col, Card } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import startsearch from '../img/startsearch.jpg'
-
 function Howitworks() {
     return (
         <div className="howitworksbg">
@@ -15,8 +11,10 @@ function Howitworks() {
                     <Col><h2 className="h2hiw">How it works</h2></Col>
                 </Row>
                 <Row className="justify-content-md-center">
-                    <Col className="hitimgbg text-center">
-                        <img src={startsearch} alt="" rounded />
+                    <Col>
+                        <Card style={{ width: '18rem' }} className="hitimgbg">
+                            <Card.Img className="hitimg" variant="top" src="https://i.imgur.com/OUiBtcF.jpg" />
+                        </Card>
                     </Col>
                     <Col>
                         
